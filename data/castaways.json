@@ -4,7 +4,7 @@
   "location": "Mamanuca Islands, Fiji",
   "premiere": "2026-09-23",
   "episodesAired": 4,
-  "lastUpdated": "2026-10-15T04:32:00+00:00",
+  "lastUpdated": "2026-10-15T21:19:13+00:00",
   "source": "https://en.wikipedia.org/wiki/Survivor_51",
   "tribes": {
     "savu": {
@@ -236,7 +236,7 @@
       "status": "voted_out",
       "finish": "4th voted out",
       "day": 9,
-      "episodeOut": null,
+      "episodeOut": 4,
       "bootOrder": 5,
       "manualOverride": false
     },
