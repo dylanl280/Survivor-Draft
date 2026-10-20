@@ -13,6 +13,8 @@
   --savu-purple: #5a2a82;
   --savu-purple-deep: #3d1a5c;
   --savu-lime: #b5d334;
+  --dina-pink: #e5325f;
+  --dina-blush: #f48aa8;
   --ocean-navy: #0f2a44;
   --torch-orange: #e8642c;
   --spoken-red: #c62828;
@@ -822,7 +824,7 @@ h4 {
 /* ---------- Tribes ---------- */
 .tribes {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
   gap: 20px;
 }
 
@@ -876,6 +878,7 @@ h4 {
 
 .tribe--yellow { --tribe-color: var(--toka-yellow); --tribe-ink: #1d1a0a; --tribe-accent: var(--toka-sky); }
 .tribe--purple { --tribe-color: var(--savu-purple); --tribe-ink: #fff; --tribe-accent: var(--savu-lime); }
+.tribe--pink { --tribe-color: var(--dina-pink); --tribe-ink: #fff; --tribe-accent: var(--dina-blush); }
 
 /* ---------- Boot order ---------- */
 .boot-list {
